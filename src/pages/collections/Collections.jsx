@@ -15,8 +15,8 @@ import Plus from "assets/Plus";
 import Download from "assets/Download";
 import ThreeDBox from "assets/ThreeDBox";
 import Delete from "assets/Delete";
-import DeleteCollection from "components/DeleteCollection/DeleteCollection";
-import AddCollectionModal from "components/AddCollection/AddCollection";
+import DeleteCollection from "components/DeleteCollection";
+import AddCollectionModal from "components/AddCollection";
 
 const collectionsReducer = (state, action) => {
   switch (action.type) {
