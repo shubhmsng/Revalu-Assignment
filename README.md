@@ -1,1 +1,1 @@
-View assigment demo
+View assignment demo.
